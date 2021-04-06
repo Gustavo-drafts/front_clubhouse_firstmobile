@@ -1,4 +1,4 @@
-# Praicando Front-End Mobile com Mayk
+# Replicando desing do app 'clubhouse' com TailwindCSS
 
 ## Demonstration
 <img src="./assets/demo.png" alt="exemplo">
