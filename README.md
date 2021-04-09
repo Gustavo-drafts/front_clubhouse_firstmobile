@@ -1,4 +1,4 @@
-# Replicando desing do app 'clubhouse' com TailwindCSS
+# Replicando o front-end do app 'clubhouse' com TailwindCSS
 
 ## Demonstration
 <img src="./assets/demo.png" alt="exemplo">
